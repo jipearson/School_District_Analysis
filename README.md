@@ -8,10 +8,11 @@ The district school board has determined that there was evidence of academic dis
 ## Results 
 How does replacing the 9t grade scores impact the following: 
 - Disctrict level summary
+After replacing the 9th grade THS test data with "Nans" we see that there is minimal imact at the district level (see images below). Only 1.2% of scores were from THS 9th graders. 
   - Original  
-  ![](Resources/district_summary_mod.png) 
-  - Updated   
-  ![](Resources/district_summary_chal.png) 
+  ![](Resources/district_summary_mod.PNG) 
+  - THS 9th grade test scores replaced    
+  ![](Resources/district_summary_chal.PNG) 
 - School level summary
 - Thomas High School’s performance relative to the other schools
 - Math and reading scores by grade
