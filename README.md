@@ -7,8 +7,8 @@ The district school board has determined that there was evidence of academic dis
 
 ## Results 
 How does replacing the 9t grade scores impact the following: 
-- Disctrict level summary
-After replacing the 9th grade THS test data with "Nans" we see that there is minimal imact at the district level (see images below). Only 1.2% of scores were from THS 9th graders. 
+- Disctrict level summary:
+Replacing the 9th grade THS test data with "Nans" caused slight downward movement in all testing metrics at the district level (see images below). Note that there was minimal overall impact as only 1.2% of the total district scores were from THS 9th graders. 
   - Original  
   ![](Resources/district_summary_mod.PNG) 
   - THS 9th grade test scores replaced    
