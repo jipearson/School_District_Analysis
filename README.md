@@ -8,6 +8,10 @@ The district school board has determined that there was evidence of academic dis
 ## Results 
 How does replacing the 9t grade scores impact the following: 
 - Disctrict level summary
+  - Original  
+  ![](Resources/district_summary_mod.png) 
+  - Updated   
+  ![](Resources/district_summary_chal.png) 
 - School level summary
 - Thomas High School’s performance relative to the other schools
 - Math and reading scores by grade
