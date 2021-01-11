@@ -23,7 +23,7 @@ THS was the 2nd best "% Overall Passing" rate both before and after the replacem
   - Math scores by grade<br/>
      Original<br/> 
      ![](Resources/math_by_grade_mod.PNG)<br/> 
-     THS 9th grade test scores replaced<br/>  
+     THS 9th grade test scores replaced<br/>
      ![](Resources/math_by_grade_chal.PNG)<br/>   
   - Reading scores by grade<br/> 
      Original<br/> 
