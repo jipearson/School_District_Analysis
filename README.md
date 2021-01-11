@@ -19,12 +19,12 @@ THS was the 2nd best "% Overall Passing" rate both before and after the replacem
   ![](Resources/school_summary_mod.PNG) 
   - THS 9th grade test scores replaced    
   ![](Resources/school_summary_chal.PNG) 
-- Math and reading scores by grade
+- #### Math and reading scores by grade
   - Math scores by grade 
-     Original ![](Resources/math_by_grade_mod.PNG) 
+     Original<br/> ![](Resources/math_by_grade_mod.PNG) 
      THS 9th grade test scores replaced ![](Resources/math_by_grade_chal.PNG)    
   - Reading scores by grade 
-     Original ![](Resources/reading_by_grade_mod.PNG) 
+     Original<br/> ![](Resources/reading_by_grade_mod.PNG) 
      THS 9th grade test scores replaced ![](Resources/reading_by_grade_chal.PNG) 
 - Scores by school spending
 - Scores by school size
