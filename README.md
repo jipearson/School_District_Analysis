@@ -31,17 +31,20 @@ All 9th grade scores have been removed from the grade level analysis - no other 
      ![](Resources/reading_by_grade_mod.PNG)<br/>
      THS 9th grade test scores replaced<br/>
      ![](Resources/reading_by_grade_chal.PNG)<br/>
-4.  #### Scores by school spending
+4.  #### Scores by school spending<br/>
+We see no changes between the original and removed data summary whithout going to a further decimale place. (see images below)
   - Original<br/> 
   ![](Resources/spending_summary_mod.PNG)<br/>
   - THS 9th grade test scores replaced<br/>
   ![](Resources/spending_summary_chal.PNG)<br/>
-5.  #### Scores by school size
+5.  #### Scores by school size<br/>
+We see no changes between the original and removed data summary whithout going to a further decimale place. (see images below)
   - Original<br/> 
   ![](Resources/size_summary_mod.PNG)<br/>
   - THS 9th grade test scores replaced<br/>
   ![](Resources/size_summary_chal.PNG)<br/>
-6.  #### Scores by school type
+6.  #### Scores by school type<br/>
+We see no changes between the original and removed data summary whithout going to a further decimale place. (see images below)
   - Original<br/> 
   ![](Resources/school_type_summary_mod.PNG)<br/>
   - THS 9th grade test scores replaced<br/>
