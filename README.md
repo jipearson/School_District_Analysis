@@ -49,3 +49,11 @@ We see no changes between the original and removed data summary whithout going t
   ![](Resources/school_type_summary_mod.PNG)<br/>
   - THS 9th grade test scores replaced<br/>
   ![](Resources/school_type_summary_chal.PNG)<br/>
+
+
+## Summary
+4 changes after replacing the reading and math changes. 
+1. There was only a slight deterioration in overall math testing scores/pass rates as well as reading pass rates(district level summary)
+2. There was a slight increase in reading scores (district level summary)
+3. Thomas high scool was one of the top performing schools regardless of the data replacement (2nd overall pass rates)
+4. Charter schools make up the top 5 performing schools and district schools make up the bottom 5 - there is no impact to that statement with our without the replaced data. 
