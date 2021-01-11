@@ -37,4 +37,12 @@ All 9th grade scores have been removed from the grade level analysis - no other 
   - THS 9th grade test scores replaced<br/>
   ![](Resources/spending_summary_chal.PNG)<br/>
 5.  #### Scores by school size
+  - Original<br/> 
+  ![](Resources/size_summary_mod.PNG)<br/>
+  - THS 9th grade test scores replaced<br/>
+  ![](Resources/size_summary_chal.PNG)<br/>
 6.  #### Scores by school type
+  - Original<br/> 
+  ![](Resources/school_type_summary_mod.PNG)<br/>
+  - THS 9th grade test scores replaced<br/>
+  ![](Resources/school_type_summary_chal.PNG)<br/>
